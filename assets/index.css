@@ -142,12 +142,6 @@
     border-color: rgba(33, 34, 35, .95) transparent transparent
 }
 
-.footer_ele_lang {
-    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAAAsAQMAAADrZPyBAAAABlBMVEUAAABUVFR8AzIeAAAAAXRSTlMAQObYZgAAAKxJREFUGNOl0DEKg0AQBdC/CKaR2Fos5AoJaSxCvIqQI6QVsiDkFDnMLAvWOcKKoG3SWbkZIy6BdPqZ4jEwDHysSeyUnJQ5yibtYa9qlvaiWSD8K/cqvOTvbmNZtRqEiXvgoKkKyodkKUuB6CPgiPwVgmdUEeI5KQ5Bo+Sluadf3bp3NdCWb+s2NUZFLN0mplQn/uE6p53oWefGoRCWBZuAs06p185R4vtjLcoHOe9HkNPeuc0AAAAASUVORK5CYII=") no-repeat 5px 5px;
-    background-size: 33px;
-    opacity: .5
-}
-
 html {
     overflow: auto;
     font-size: 125%;
@@ -458,10 +452,6 @@ a {
 
 #page_footer.footer .copyright a {
     color: #383838
-}
-
-#page_footer.footer .footer_ele_lang {
-    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAAAsAQMAAADrZPyBAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAKxJREFUGNOl0DEKg0AQBdC/CKaR2Fos5AoJaSxCvIqQI6QVsiDkFDnMLAvWOcKKoG3SWbkZIy6BdPqZ4jEwDHysSeyUnJQ5yibtYa9qlvaiWSD8K/cqvOTvbmNZtRqEiXvgoKkKyodkKUuB6CPgiPwVgmdUEeI5KQ5Bo+Sluadf3bp3NdCWb+s2NUZFLN0mplQn/uE6p53oWefGoRCWBZuAs06p185R4vtjLcoHOe9HkNPeuc0AAAAASUVORK5CYII=)
 }
 
 @media only screen and (max-height:1000px) {
