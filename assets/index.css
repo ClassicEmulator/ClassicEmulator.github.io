@@ -246,9 +246,9 @@ a {
 .main {
     zoom: 1;
     margin-top: 70px;
-    margin-left: 25px;
+    margin-left: 70px;
     width: 58.5%;
-    vertical-align: top
+    vertical-align: top;
 }
 
 .btn,
@@ -273,6 +273,17 @@ a {
 
 .btn:hover {
     opacity: .75
+}
+
+.qrcode {
+    position: relative;
+    width: 110px;
+    height: 110px;
+    margin: 0 15px -50px 15px;
+    -ms-background-size: 100%;
+    background-size: 100%;
+    background-position: 50%;
+    background-repeat: no-repeat
 }
 
 .lang a {
