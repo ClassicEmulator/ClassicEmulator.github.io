@@ -192,6 +192,19 @@ a {
     text-decoration: none;
     color:#383838;
 }
+a:link {
+    color: #383838; /* 未访问的链接 */
+}
+a:visited {
+    color: #383838; /* 已访问的链接 */
+}
+a:hover {
+    color: #383838; /* 鼠标悬停时 */
+    text-decoration: underline;
+}
+a:active {
+    color: #383838; /* 链接被点击的瞬间 */
+}
 
 
 .group:after {
