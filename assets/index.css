@@ -326,6 +326,10 @@ a:active {
     display: block
 }
 
+.download_btns {
+	white-space: nowrap;
+}
+
 .ic_new {
     display: none;
     position: absolute;
